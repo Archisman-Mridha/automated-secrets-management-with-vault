@@ -1,0 +1,4 @@
+**/credentials
+**/envs
+
+**/.terragrunt-cache
